@@ -89,8 +89,4 @@ Pour toute question, suggestion ou retour, n'hésitez pas à me contacter :
 
 - **Abdias Arsène** | Consultant IT en Technologies Innovantes  
 - **Email** : abdiasarsene@gmail.com  
-- **LinkedIn** : [Abdias Arsène. Z 📊](https://linkedin.com/in/your-profile)
-
----
-
-Veux-tu aussi que je prépare une **autre variante** encore plus "moderne" avec des emojis supplémentaires pour dynamiser encore plus ton README ? 🚀 (ça peut donner un style visuel plus engageant si tu le souhaites !)
+- **LinkedIn** : [Abdias Arsène. Z 📊](https://www.linkedin.com/in/abdias-arsene)
