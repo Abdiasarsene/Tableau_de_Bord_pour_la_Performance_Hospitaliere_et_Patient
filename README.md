@@ -8,7 +8,7 @@ L'objectif de ce projet est de développer un **tableau de bord interactif** des
 - 🧑‍⚕️ **Surveiller l'état des patients** (suivi des signes vitaux, diagnostics).
 - 🦠 **Analyser les données épidémiologiques** (propagation des maladies, vaccination, etc.).
 
-![Accueil](./home.png)
+![Accueil](./static/home.png)
 ---
 
 ## 🛠 Technologies et Outils
@@ -37,7 +37,7 @@ Le tableau de bord est structuré en trois grandes sections :
   - Par période
   - Par type de soin
 
-![Suivi](./mobile.png)
+![Suivi](./static/mobile.png)
 
 ---
 
@@ -66,7 +66,7 @@ Le tableau de bord est structuré en trois grandes sections :
 | **Tests et Validation** | Tester les fonctionnalités du tableau de bord et valider la qualité des données. |
 | **Déploiement et Formation** | Déployer la solution et former les utilisateurs à son utilisation. |
 
-![Suivi](./suivi.png)
+![Suivi](./static/suivi.png)
 ---
 
 ## 📂 Structure du Dépôt
@@ -80,7 +80,7 @@ healthcare-dashboard/
 │   └── data_visualization.py
 └── README.md
 ```
-![Test](./mobile-2.png)
+![Test](./stactc/mobile-2.png)
 ---
 
 ## 📧 Contact
